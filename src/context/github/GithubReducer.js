@@ -5,15 +5,20 @@ const githubReducer = (state, action) => {
         ...state,
         users: action.payload,
         loading: false
-      };
+      }
+    case 'CLEAR_USERS':
+      return {
+        ...state,
+        users: []
+      }
     case 'SET_LOADING':
       return {
         ...state,
         loading: true
-      };
+      }
     default:
-      return state;
+      return state
   }
-};
+}
 
-export default githubReducer;
+export default githubReducer
