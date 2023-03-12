@@ -12,8 +12,6 @@ App to search Github users and display their info.
 ## Installation
 Do the following steps for installation
 
-This Project was built using [Node v16.18.0](https://nodejs.org/en/download/releases) 
-
 <br>
 <br>
 
