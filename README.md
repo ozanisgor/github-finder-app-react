@@ -7,7 +7,7 @@ App to search Github users and display their info.
 <br>
 
 
-![github_findergif](https://github.com/ozanisgor/github-finder-app-react/blob/main/assets/gifs/yelpcamp.gif)
+![github_findergif](https://github.com/ozanisgor/github-finder-app-react/blob/main/src/assets/gifs/github_finder.gif)
 
 ## Installation
 Do the following steps for installation
